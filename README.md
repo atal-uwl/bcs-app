@@ -1,2 +1,2 @@
-# bcs-app
-Archive from 2018-01-19
+# BCS_Application
+Android Application for the BCS competition
